@@ -18,7 +18,7 @@ export default function unapproved_home(
         type: "section",
         text: {
           type: "mrkdwn",
-          text: "Your Nest account is pending approval! If you have any questions, ask in the #nest channel. Here's your profile:",
+          text: "Your Nest account is pending approval! If you have any questions, ask in the <#C097AL5AUH0> channel. Here's your profile:",
         },
       },
       {
