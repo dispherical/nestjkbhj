@@ -133,9 +133,6 @@ tickets open: *{total_open}*
 tickets in progress: *{total_in_progress}*
 tickets closed: *{total_closed}*
 
-*:rac_lfg: overall leaderboard*
-{overall_leaderboard_str}
-
 *:mc-clock: in the last 24 hours...* _(that's a day, right? right? that's a day, yeah ok)_
 :rac_woah: *{prev_day_total}* total tickets were opened and you managed to close *{prev_day_only_closed}* of them! congrats!! :D
 :rac_info: *{prev_day_in_progress}* tickets have been assigned to users, and *{prev_day_open}* are still open
